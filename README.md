@@ -19,7 +19,7 @@ This is a Flight Reservation System built with Python's `tkinter` library for th
 
 ## Setup
 
-1. **Clone the Repository** (if applicable):
+1. **Clone the Repository after creating the fork** :
    ```bash
    git clone https://github.com/your-username/flight-management-system.git
    cd flight-management-system
@@ -119,4 +119,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to contribute by submitting issues or pull requests.
