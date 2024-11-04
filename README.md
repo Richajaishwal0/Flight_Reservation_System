@@ -1,6 +1,6 @@
 # Flight Reservation System
 
-This is a Flight Management System built with Python's `tkinter` library for the GUI and MySQL as the backend database. The application allows users to view available flights, book a flight, and cancel bookings.
+This is a Flight Reservation System built with Python's `tkinter` library for the GUI and MySQL as the backend database. The application allows users to view available flights, book a flight, and cancel bookings.
 
 ## Features
 
